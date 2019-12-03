@@ -16115,4 +16115,10 @@ body.section-front-page .plone-breadcrumb {
 #portal-footer-wrapper .portlet .portletContent > ul > li a:before {
   content: "";
 }
+.pat-structure .navbar.ui-offset-parent {
+  z-index: 3;
+}
+.pat-structure ul.pagination>.active>a {
+    z-index: 2;
+}
 /*# sourceMappingURL=++theme++booster/less/booster-compiled.css.map */
