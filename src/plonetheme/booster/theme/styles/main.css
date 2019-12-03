@@ -15235,7 +15235,7 @@ pre {
 .item .fh5co-owl-text {
   display: table-cell;
   vertical-align: middle;
-  z-index: 10;
+  z-index: 3;
   position: relative;
 }
 .item .fh5co-owl-text a {
