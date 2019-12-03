@@ -14472,7 +14472,7 @@ h6 {
 #fh5co-header > .navbar li.active a {
   background: transparent;
 }
-#fh5co-header > .navbar li.active a > span .border {
+#fh5co-header > .navbar li.active > a > span .border {
   background: #FBB040;
 }
 #fh5co-header .navbar-brand {
