@@ -50,7 +50,7 @@
 	// navbar menu
 
 	$('.navbar li a').wrapInner('<span></span>');
-	$('.navbar li a span').append('<span class="border"></span>');
+	$('.navbar li a > span').append('<span class="border"></span>');
 
 	$('#portal-searchbox .LSBox').hover(function(){
 	  $('.searchSection').toggleClass('show-searchSection');

@@ -15344,6 +15344,14 @@ a > img.fh5co-align-center {
 .navbar-nav li:hover > .submenu {
   display: block;
 }
+.navbar-nav li.dropdown-submenu {
+  position: relative;
+}
+.navbar-nav li.dropdown-submenu:hover > .submenu {
+  left: 100%;
+  top: 0;
+  right: auto;
+}
 /*# sourceMappingURL=style.css.map */
 /* Import Partial less files
    ========================================================================== */
