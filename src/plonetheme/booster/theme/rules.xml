@@ -123,6 +123,10 @@
       css:content='#portal-searchbox'
       css:theme='#portal-searchbox'
       />
+  <replace
+    css:content='#portal-languageselector'
+    css:theme='#portal-languageselector'
+    />
 
   <replace css:content="div#portal-searchbox input.searchButton">
     <button class="search-icon" type="submit">
